@@ -1,0 +1,10 @@
+# Toolchain for Compile and Link
+#
+AIOT_CC := gcc
+AIOT_AR := ar
+
+# Etc
+#
+
+BLD_CFLAGS := -fPIC
+BLD_LDFLAGS := -pthread

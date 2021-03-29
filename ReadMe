@@ -1,0 +1,3 @@
+1.本工程需要通过keil打开
+2.调试日志通过STM32的SWO方式输出, 时钟为8M, 具体在keil里面配置时钟和SWO请参考https://blog.csdn.net/yi412/article/details/71451186
+3.日志具体查看的方式为打开keil-->View-->Serial Windows-->Debug(printf) Viewer

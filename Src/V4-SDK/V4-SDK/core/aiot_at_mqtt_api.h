@@ -1,0 +1,5 @@
+
+#define AT_SEND_DELAY_MS             (200)
+#define AT_RECV_DEFAULT_BUFFER_SIZE  (512)
+#define AT_RECV_DEFAULT_SEND_DELAY   (1000)
+#define AT_CMD_DEFAULT_BUFFER_SIZE   (10)
